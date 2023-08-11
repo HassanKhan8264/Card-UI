@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('../src/assets/fonts/ProximaNova-Regular.otf');
+}
+body{
+  font-family: Proxima Nova;
+  font-weight: bold;
+  background: #FAFAFA;
+
+}
